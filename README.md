@@ -1,4 +1,4 @@
-# githuber
+# Get Information User Github
 pkg install python2<br>
 pkg install git<br>
 pip2 install requests<br>
